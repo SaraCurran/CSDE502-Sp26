@@ -21,7 +21,7 @@ layout: default
 
 
 # Week 1
-**Ethics and Norms:** March 29, 2024
+**Ethics and Norms:** April 4, 2025
   *  [Slides](https://jlgodwin.github.io/CSDE502-Sp24/Slides/CSDE%20502%20Week%201_20240329.pdf)
 
 ## Readings
@@ -30,19 +30,15 @@ layout: default
   *  **Case Studies:** [More Than Tuskegee](https://jlgodwin.github.io/CSDE502-Sp24/Readings/Week%201/Scharff_MoreThanTuskegee.pdf) ([Background](https://www.mcgill.ca/oss/article/history/40-years-human-experimentation-america-tuskegee-study))
   
 # Week 2
-**Research with Human Subjects:** April 5, 2024
-  *  [Slides](https://jlgodwin.github.io/CSDE502-Sp24/Slides/CSDE%20502%20Week%202_20240405.pdf)
+**No Class - PAA:** April 11, 2025
 
-## Readings
-
-  *  **Research with Human Subjects:** [Responsible Conduct of Research, Ch. 11](https://jlgodwin.github.io/CSDE502-Sp24/Readings/Week%202/Responsible%20Conduct%20of%20Research_Ch11.pdf)
-  *  **Universities and Human Subjects Research:** [Colonial Unknowing](https://jlgodwin.github.io/CSDE502-Sp24/Readings/Week%202/ColonialUnknowing_IRBs_2019.pdf), [Indigenous Data Sovereignty and IRBs](https://jlgodwin.github.io/CSDE502-Sp24/Readings/Week%202/IndigenousDataSovereignty_IRB.pdf), [Land Grab University](https://jlgodwin.github.io/CSDE502-Sp24/Readings/Week%202/LandGrabUniversities_2019.pdf)
-  *  **Case Studies:** [Montana Flyer Study](https://jlgodwin.github.io/CSDE502-Sp24/Readings/Week%202/MontanaFlyerStudy.pdf), [Bangladesh Mask Study](https://jlgodwin.github.io/CSDE502-Sp24/Readings/Week%202/BangladeshMaskStudy.pdf)
-
+## Assignments
+ **CITI Human Subjects Training**
+   *  [Assignment](https://jlgodwin.github.io/CSDE502-Sp24/CITI%20Materials/CITI%20Assignment%20Instructions.pdf)
+   *  [Registration Instructions](https://jlgodwin.github.io/CSDE502-Sp24/CITI%20Materials/CITI_RegistrationInstructions.pdf)
 
 # Week 3
-
-**Data Management Principles:** April 12, 2024
+**Data Management Principles:** April 18, 2025
   * [Slides](https://jlgodwin.github.io/CSDE502-Sp24/Slides/CSDE%20502%20Week%205_20230428.pdf)
 
 ## Readings
@@ -51,16 +47,18 @@ layout: default
   * **Case Studies:** [Population Data Systems](https://jlgodwin.github.io/CSDE502-Sp24/Readings/Week%204/SeltzerAnderson2001.pdf) [Refugee Data](https://jlgodwin.github.io/CSDE502-Sp24/Readings/Week%204/StopStealingOurStories.pdf)
 
 # Week 4
-**No Class - PAA:** April 19, 2024
+**Research with Human Subjects:** April 25, 2025
+  *  [Slides](https://jlgodwin.github.io/CSDE502-Sp24/Slides/CSDE%20502%20Week%202_20240405.pdf)
 
-## Assignments
- **CITI Human Subjects Training**
-   *  [Assignment](https://jlgodwin.github.io/CSDE502-Sp24/CITI%20Materials/CITI%20Assignment%20Instructions.pdf)
-   *  [Registration Instructions](https://jlgodwin.github.io/CSDE502-Sp24/CITI%20Materials/CITI_RegistrationInstructions.pdf)
+## Readings
+
+  *  **Research with Human Subjects:** [Responsible Conduct of Research, Ch. 11](https://jlgodwin.github.io/CSDE502-Sp24/Readings/Week%202/Responsible%20Conduct%20of%20Research_Ch11.pdf)
+  *  **Universities and Human Subjects Research:** [Colonial Unknowing](https://jlgodwin.github.io/CSDE502-Sp24/Readings/Week%202/ColonialUnknowing_IRBs_2019.pdf), [Indigenous Data Sovereignty and IRBs](https://jlgodwin.github.io/CSDE502-Sp24/Readings/Week%202/IndigenousDataSovereignty_IRB.pdf), [Land Grab University](https://jlgodwin.github.io/CSDE502-Sp24/Readings/Week%202/LandGrabUniversities_2019.pdf)
+  *  **Case Studies:** [Montana Flyer Study](https://jlgodwin.github.io/CSDE502-Sp24/Readings/Week%202/MontanaFlyerStudy.pdf), [Bangladesh Mask Study](https://jlgodwin.github.io/CSDE502-Sp24/Readings/Week%202/BangladeshMaskStudy.pdf)
 
 # Week 5
 
-**Research in Low- and Middle- Income Countries:** April 26, 2024
+**Research in Low- and Middle- Income Countries:** May 2, 2025
   * [Slides](https://jlgodwin.github.io/CSDE502-Sp24/Slides/CSDE%20502%20Week%206_20230505.pdf)
 
 ## Readings
@@ -71,7 +69,7 @@ layout: default
 
 # Week 6
 
-**Algorithms and Prediction:** May 3, 2024
+**Algorithms and Prediction:** May 9, 2025
   * [Slides](https://jlgodwin.github.io/CSDE502-Sp24/Slides/CSDE%20502%20Week%207_20230512.pdf)
 
 ## Readings
@@ -83,7 +81,7 @@ layout: default
 
 # Week 7
 
-**Reproducibility, Replicability, Statistical Inference:** May 10, 2024
+**Reproducibility, Replicability, Statistical Inference:** May 16, 2025
   * [Slides](https://jlgodwin.github.io/CSDE502-Sp24/Slides/CSDE%20502%20Week%208_20230519.pdf)
 
 ## Readings
@@ -95,7 +93,7 @@ layout: default
 
 # Week 8
 
-**Publication:** May 17, 2024
+**Publication:** May 23, 2025
 
 ## Readings
   * **Reproducibility and Replicability:** [Responsible Conduct of Research, Ch.3](https://jlgodwin.github.io/CSDE502-Sp24/Readings/Week%208/Responsible%20Conduct%20of%20Research_Ch3.pdf), [Manifesto for Reproducible Science](https://jlgodwin.github.io/CSDE502-Sp24/Readings/Week%208/Munafo_ManifestoforReproducibleScience.pdf)
@@ -105,7 +103,7 @@ layout: default
 
 # Week 9
 
-**The Workplace:** May 24, 2024
+**The Workplace:** May 30, 2025
 
 ## Readings
   * [Why isn't science better?](https://jlgodwin.github.io/CSDE502-Sp24/Readings/Week%209/Smaldino_WhyIsntScienceBetter.pdf)
@@ -113,7 +111,7 @@ layout: default
   * [Picture a Scientist (film)](https://www.pbs.org/wgbh/nova/video/picture-a-scientist/) (Also on Netflix), [Sabatini Almost Hired at NYU](https://jlgodwin.github.io/CSDE502-Sp24/Readings/Week%209/Sabatini_NYU_2022.pdf)
 
 # Week 10
-**Solutions:** May 31, 2024
+**Solutions:** June 6, 2025
 
 ## Readings
   * [Toward Critical Demography 2.0](https://jlgodwin.github.com/CSDE502-Sp24/Readings/Week+10/Ortega_CritDemog2_2023.pdf) [Regaining Trust in Science](https://jlgodwin.github.com/CSDE502-Sp24/Readings/Week%2010/Hastings_RegainingTrust_2023.pdf)
@@ -153,5 +151,5 @@ layout: default
   * Wang, Feng, Yong Cai, Ke Shen, and Stuart Gietel-Basten. ["Is demography just a numerical exercise? Numbers, politics, and legacies of China’s one-child policy."](https://jlgodwin.github.io/CSDE502-Sp24/Readings/The%20Boneyard/Wang_Cai_DemographyOneChild_2018.pdf) Demography 55, no. 2 (2018): 693-719.
 
 # Acknowledgment
-This course website is built from the course materials prepared by **Dr. Jessica Godwin** for Spring 2024.
+This course website is built from the course materials prepared by **Dr. Jessica Godwin** in [Spring 2024](https://github.com/jlgodwin/CSDE502-Sp24).
 
