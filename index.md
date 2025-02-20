@@ -1,5 +1,5 @@
 ---
-title: CSDE 502 Responsible Conduct of Research, Spring 2024
+title: CSDE 502 Responsible Conduct of Research, Spring 2025
 layout: default
 ---
 
@@ -151,4 +151,7 @@ layout: default
   * Sewell, A. A. (2016). [The racism-race reification process: A mesolevel political economic framework for understanding racial health disparities.](https://jlgodwin.github.io/CSDE502-Sp24/Readings/The%20Boneyard/Sewell_RacismRaceReification_2016.pdf) Sociology of Race and Ethnicity, 2(4), 402-432.
   * Walters, Sarah. ["African Population History: Contributions of Moral Demography."](https://jlgodwin.github.io/CSDE502-Sp24/Readings/The%20Boneyard/Walters_AfricanPopHistory_MoralDem_2021.pdf) The Journal of African History 62, no. 2 (2021): 183-200.
   * Wang, Feng, Yong Cai, Ke Shen, and Stuart Gietel-Basten. ["Is demography just a numerical exercise? Numbers, politics, and legacies of China’s one-child policy."](https://jlgodwin.github.io/CSDE502-Sp24/Readings/The%20Boneyard/Wang_Cai_DemographyOneChild_2018.pdf) Demography 55, no. 2 (2018): 693-719.
+
+# Acknowledgment
+This course website is built from the course materials prepared by **Dr. Jessica Godwin** for Spring 2024.
 
