@@ -38,23 +38,23 @@ layout: default
    *  [Registration Instructions](https://jyang32.github.io/CSDE502-Sp25/CITI%20Materials/CITI_RegistrationInstructions.pdf)
 
 # Week 3
-**Data Management Principles:** April 18, 2025
-  * [Slides](https://jyang32.github.io/CSDE502-Sp25/Slides/CSDE%20502%20Week%205_20230428.pdf)
-
-## Readings
-  * [FAIR](https://jyang32.github.io/CSDE502-Sp25/Readings/Week%204/FairData.pdf)
-  * [Indigenous Data Principles](https://jyang32.github.io/CSDE502-Sp25/Readings/Week%204/IndigenousDataUS_Carroll.pdf), [CARE](https://jyang32.github.io/CSDE502-Sp25/Readings/Week%204/CAREPrinciples_Carroll.pdf)
-  * **Case Studies:** [Population Data Systems](https://jyang32.github.io/CSDE502-Sp25/Readings/Week%204/SeltzerAnderson2001.pdf) [Refugee Data](https://jyang32.github.io/CSDE502-Sp25/Readings/Week%204/StopStealingOurStories.pdf)
-
-# Week 4
-**Research with Human Subjects:** April 25, 2025
-  *  [Slides](https://jyang32.github.io/CSDE502-Sp25/Slides/CSDE%20502%20Week%202_20240405.pdf)
+**Research with Human Subjects:** April 18, 2025
+  *  [Slides](https://jyang32.github.io/CSDE502-Sp25/Slides/CSDE%20502%20Week%202_20250418.pdf)
 
 ## Readings
 
   *  **Research with Human Subjects:** [Responsible Conduct of Research, Ch. 11](https://jyang32.github.io/CSDE502-Sp25/Readings/Week%202/Responsible%20Conduct%20of%20Research_Ch11.pdf)
   *  **Universities and Human Subjects Research:** [Colonial Unknowing](https://jyang32.github.io/CSDE502-Sp25/Readings/Week%202/ColonialUnknowing_IRBs_2019.pdf), [Indigenous Data Sovereignty and IRBs](https://jyang32.github.io/CSDE502-Sp25/Readings/Week%202/IndigenousDataSovereignty_IRB.pdf), [Land Grab University](https://jyang32.github.io/CSDE502-Sp25/Readings/Week%202/LandGrabUniversities_2019.pdf)
   *  **Case Studies:** [Montana Flyer Study](https://jyang32.github.io/CSDE502-Sp25/Readings/Week%202/MontanaFlyerStudy.pdf), [Bangladesh Mask Study](https://jyang32.github.io/CSDE502-Sp25/Readings/Week%202/BangladeshMaskStudy.pdf)
+
+# Week 4
+**Data Management Principles:** April 25, 2025
+  * [Slides](https://jyang32.github.io/CSDE502-Sp25/Slides/CSDE%20502%20Week%205_20230428.pdf)
+
+## Readings
+  * [FAIR](https://jyang32.github.io/CSDE502-Sp25/Readings/Week%204/FairData.pdf)
+  * [Indigenous Data Principles](https://jyang32.github.io/CSDE502-Sp25/Readings/Week%204/IndigenousDataUS_Carroll.pdf), [CARE](https://jyang32.github.io/CSDE502-Sp25/Readings/Week%204/CAREPrinciples_Carroll.pdf)
+  * **Case Studies:** [Population Data Systems](https://jyang32.github.io/CSDE502-Sp25/Readings/Week%204/SeltzerAnderson2001.pdf) [Refugee Data](https://jyang32.github.io/CSDE502-Sp25/Readings/Week%204/StopStealingOurStories.pdf)
 
 # Week 5
 
