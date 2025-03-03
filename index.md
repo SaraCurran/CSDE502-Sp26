@@ -8,8 +8,8 @@ layout: default
 
 * [Week 1: Ethics and Norms](#week-1)
 * [Week 2: Research with Human Subjects](#week-2)
-* [Week 3: Data Management Principles](#week-3)
-* [Week 4: Research with Human Subjects, cont'd](#week-4)
+* [Week 3: Research with Human Subjects, cont'd](#week-3)
+* [Week 4: Data Management Principles](#week-4)
 * [Week 5: Research in Low- and Middle- Income Countries](#week-5)
 * [Week 6: Algorithms and Prediction](#week-6)
 * [Week 7: Reproducibility, Replicability, Statistical Inference](#week-7)
