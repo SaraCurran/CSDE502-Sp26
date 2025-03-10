@@ -59,7 +59,7 @@ layout: default
 # Week 5
 
 **Research in Low- and Middle- Income Countries:** May 2, 2025
-  * [Slides](https://jyang32.github.io/CSDE502-Sp25/Slides/CSDE%20502%20Week%206_20250502.pdf)
+  * [Slides](https://jyang32.github.io/CSDE502-Sp25/Slides/CSDE%20502%20Week%205_20250502.pdf)
 
 ## Readings
   * [Global North-South Partnerships in Research](https://jyang32.github.io/CSDE502-Sp25/Readings/Week%205/GlobalNorthSouthResearch.pdf)
@@ -70,7 +70,7 @@ layout: default
 # Week 6
 
 **Algorithms and Prediction:** May 9, 2025
-  * [Slides](https://jyang32.github.io/CSDE502-Sp25/Slides/CSDE%20502%20Week%207_20250509.pdf)
+  * [Slides](https://jyang32.github.io/CSDE502-Sp25/Slides/CSDE%20502%20Week%206_20250509.pdf)
 
 ## Readings
   * [Race and Biosocial Science](https://jyang32.github.io/CSDE502-Sp25/Readings/Week%206/RobertsRollins_2020_ARS.pdf)
@@ -82,7 +82,7 @@ layout: default
 # Week 7
 
 **Reproducibility, Replicability, Statistical Inference:** May 16, 2025
-  * [Slides](https://jyang32.github.io/CSDE502-Sp25/Slides/CSDE%20502%20Week%208_20250516.pdf)
+  * [Slides](https://jyang32.github.io/CSDE502-Sp25/Slides/CSDE%20502%20Week%207_20250516.pdf)
 
 ## Readings
   *  [Responsible Conduct of Research, Ch.3](https://jyang32.github.io/CSDE502-Sp25/Readings/Week%207/Responsible%20Conduct%20of%20Research_Ch3.pdf)
