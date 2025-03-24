@@ -21,6 +21,7 @@ layout: default
 
 
 # Week 1
+
 **Ethics and Norms:** April 4, 2025
   *  [Slides](https://jyang32.github.io/CSDE502-Sp25/Slides/CSDE%20502%20Week%201_20250404.pdf)
 
@@ -30,6 +31,7 @@ layout: default
   *  **Case Studies:** [More Than Tuskegee](https://jyang32.github.io/CSDE502-Sp25/Readings/Week%201/Scharff_MoreThanTuskegee.pdf) ([Background](https://www.mcgill.ca/oss/article/history/40-years-human-experimentation-america-tuskegee-study))
   
 # Week 2
+
 **No Class - PAA:** April 11, 2025
 
 ## Assignments
@@ -38,6 +40,7 @@ layout: default
    *  [Registration Instructions](https://jyang32.github.io/CSDE502-Sp25/CITI%20Materials/CITI_RegistrationInstructions.pdf)
 
 # Week 3
+
 **Research with Human Subjects:** April 18, 2025
   *  [Slides](https://jyang32.github.io/CSDE502-Sp25/Slides/CSDE%20502%20Week%203_20250418.pdf)
 
@@ -48,18 +51,17 @@ layout: default
   *  **Case Studies:** [Montana Flyer Study](https://jyang32.github.io/CSDE502-Sp25/Readings/Week%202/MontanaFlyerStudy.pdf), [Bangladesh Mask Study](https://jyang32.github.io/CSDE502-Sp25/Readings/Week%202/BangladeshMaskStudy.pdf)
 
 # Week 4
+
 **Data Management Principles:** April 25, 2025
-  * [Slides](https://jyang32.github.io/CSDE502-Sp25/Slides/CSDE%20502%20Week%204_20250425.pdf)
 
 ## Readings
   * [FAIR](https://jyang32.github.io/CSDE502-Sp25/Readings/Week%204/FairData.pdf)
-  * [Indigenous Data Principles](https://jyang32.github.io/CSDE502-Sp25/Readings/Week%204/IndigenousDataUS_Carroll.pdf), [CARE](https://jyang32.github.io/CSDE502-Sp25/Readings/Week%204/CAREPrinciples_Carroll.pdf)
-  * **Case Studies:** [Population Data Systems](https://jyang32.github.io/CSDE502-Sp25/Readings/Week%204/SeltzerAnderson2001.pdf) [Refugee Data](https://jyang32.github.io/CSDE502-Sp25/Readings/Week%204/StopStealingOurStories.pdf)
+  * [Indigenous Data Principles](https://jyang32.github.io/CSDE502-Sp25/Readings/Week%204/IndigenousDataUS_Carroll.pdf), [CARE](https://jyang32.github.io/CSDE502-Sp25/Readings/Week%204/CAREPrinciples_Carroll.pdf) [Extending CARE Principles](https://jyang32.github.io/CSDE502-Sp25/Readings/Week%204/ExtendingCAREPrinciples.pdf)
+  * **Case Studies:** [Population Data Systems](https://jyang32.github.io/CSDE502-Sp25/Readings/Week%204/SeltzerAnderson2001.pdf) [Stop Stealing Our Stories](https://jyang32.github.io/CSDE502-Sp25/Readings/Week%204/StopStealingOurStories.pdf)
 
 # Week 5
 
 **Research in Low- and Middle- Income Countries:** May 2, 2025
-  * [Slides](https://jyang32.github.io/CSDE502-Sp25/Slides/CSDE%20502%20Week%205_20250502.pdf)
 
 ## Readings
   * [Global North-South Partnerships in Research](https://jyang32.github.io/CSDE502-Sp25/Readings/Week%205/GlobalNorthSouthResearch.pdf)
@@ -70,7 +72,6 @@ layout: default
 # Week 6
 
 **Algorithms and Prediction:** May 9, 2025
-  * [Slides](https://jyang32.github.io/CSDE502-Sp25/Slides/CSDE%20502%20Week%206_20250509.pdf)
 
 ## Readings
   * [Race and Biosocial Science](https://jyang32.github.io/CSDE502-Sp25/Readings/Week%206/RobertsRollins_2020_ARS.pdf)
@@ -82,7 +83,6 @@ layout: default
 # Week 7
 
 **Reproducibility, Replicability, Statistical Inference:** May 16, 2025
-  * [Slides](https://jyang32.github.io/CSDE502-Sp25/Slides/CSDE%20502%20Week%207_20250516.pdf)
 
 ## Readings
   *  [Responsible Conduct of Research, Ch.3](https://jyang32.github.io/CSDE502-Sp25/Readings/Week%207/Responsible%20Conduct%20of%20Research_Ch3.pdf)
@@ -111,6 +111,7 @@ layout: default
   * [Picture a Scientist (film)](https://www.pbs.org/wgbh/nova/video/picture-a-scientist/) (Also on Netflix), [Sabatini Almost Hired at NYU](https://jyang32.github.io/CSDE502-Sp25/Readings/Week%209/Sabatini_NYU_2022.pdf)
 
 # Week 10
+
 **Solutions:** June 6, 2025
 
 ## Readings
