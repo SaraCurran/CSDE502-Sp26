@@ -13,9 +13,9 @@ layout: default
 * [Week 5: Research in Low- and Middle- Income Countries](#week-5)
 * [Week 6: Algorithms and Prediction](#week-6)
 * [Week 7: Reproducibility, Replicability, Statistical Inference](#week-7)
-* [Week 8: Publication](#week-8)
-* [Week 9: The Workplace](#week-9)
-* [Week 10: Solutions](#week-10)
+* [Week 8: The Workplace](#week-8)
+* [Week 9: Solutions](#week-9)
+* [Week 10: Guest Lecture](#week-10)
 * [The Boneyard](#boneyard)
 
 
