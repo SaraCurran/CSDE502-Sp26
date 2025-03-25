@@ -93,30 +93,25 @@ layout: default
 
 # Week 8
 
-**Publication:** May 23, 2025
-
-## Readings
-  * **Reproducibility and Replicability:** [Responsible Conduct of Research, Ch.3](https://jyang32.github.io/CSDE502-Sp25/Readings/Week%208/Responsible%20Conduct%20of%20Research_Ch3.pdf), [Manifesto for Reproducible Science](https://jyang32.github.io/CSDE502-Sp25/Readings/Week%208/Munafo_ManifestoforReproducibleScience.pdf)
-  * **Academic Publishing Industry:**[HIC Journals and LMIC Research](https://jyang32.github.io/CSDE502-Sp25/Readings/Week%208/HICJournals.pdf), [Money, Research, and Publishing](https://jyang32.github.io/CSDE502-Sp25/Readings/Week%208/GatesIHMELancet.pdf)
-  * **Post-publication Criticism:** [The Obesity Wars](https://jyang32.github.io/CSDE502-Sp25/Readings/Week%208/TheObesityWars.pdf)
-
-
-# Week 9
-
-**The Workplace:** May 30, 2025
+**The Workplace:** May 23, 2025
 
 ## Readings
   * [Why isn't science better?](https://jyang32.github.io/CSDE502-Sp25/Readings/Week%209/Smaldino_WhyIsntScienceBetter.pdf)
   * [Labor Organization](https://jyang32.github.io/CSDE502-Sp25/Readings/Week%209/OrganizingtheAcademy_2021.pdf)
   * [Picture a Scientist (film)](https://www.pbs.org/wgbh/nova/video/picture-a-scientist/) (Also on Netflix), [Sabatini Almost Hired at NYU](https://jyang32.github.io/CSDE502-Sp25/Readings/Week%209/Sabatini_NYU_2022.pdf)
 
-# Week 10
+# Week 9
 
-**Solutions:** June 6, 2025
+**Solutions:** May 30, 2025
 
 ## Readings
   * [Toward Critical Demography 2.0](https://jyang32.github.io/CSDE502-Sp25/Readings/Week%2010/Ortega_CritDemog2_2023.pdf) [Regaining Trust in Science](https://jyang32.github.io/CSDE502-Sp25/Readings/Week%2010/Hastings_RegainingTrust_2023.pdf)
   * **Case Studies** [Unmasking AI, Chs. 21 & 23](https://orbiscascade-washington.primo.exlibrisgroup.com/discovery/fulldisplay?docid=cdi_proquest_ebookcentral_EBC30724349&context=PC&vid=01ALLIANCE_UW:UW&lang=en&search_scope=UW_EVERYTHING&adaptor=Primo%20Central&tab=UW_default&query=any,contains,unmasking%20ai) [The Truth Project](https://ias.umn.edu/news-stories/truth-project-towards-recognition-and-university-tribal-healing) [The Truth Project (Podcast)](https://soundcloud.com/therednationpod/the-truth-project-towards)
+
+# Week 10
+
+**Guest Lecture: Amy Hagopian** June 6, 2025
+
 
 # Boneyard
 
@@ -139,7 +134,7 @@ layout: default
   * Khan, T., Abimbola, S., Kyobutungi, C., & Pai, M. (2022). [How we classify countries and people—and why it matters.](https://jyang32.github.io/CSDE502-Sp25/Readings/The%20Boneyard/Khan_ClassifyCountriesPeople_2022.pdf) BMJ global health, 7(6), e009704.
   * Larregue, J., & Rollins, O. (2019). [Biosocial criminology and the mismeasure of race.](https://jyang32.github.io/CSDE502-Sp25/Readings/The%20Boneyard/LarregueRollins_MismeasureRace_2018.pdf) Ethnic and Racial Studies, 42(12), 1990-2007.
   * Lett, E., Adekunle, D., McMurray, P., Asabor, E. N., Irie, W., Simon, M. A., ... & McLemore, M. R. (2022). [Health equity tourism: ravaging the justice landscape.](https://jyang32.github.io/CSDE502-Sp25/Readings/The%20Boneyard/Lett_HealthEquityTourism_2022.pdf) Journal of medical systems, 46(3), 17.
-  *  Lett, E., & Everhart, A. (2022). [Considerations for transgender population health research based on US national surveys.](https://jyang32.github.io/CSDE502-Sp25/Readings/The%20Boneyard/LettEverhart_TransPopHealth_2021.pdf) Annals of Epidemiology, 65, 65-71.
+  * Lett, E., & Everhart, A. (2022). [Considerations for transgender population health research based on US national surveys.](https://jyang32.github.io/CSDE502-Sp25/Readings/The%20Boneyard/LettEverhart_TransPopHealth_2021.pdf) Annals of Epidemiology, 65, 65-71.
   * Lockhart, J. W., King, M. M., & Munsch, C. (2023). [Name-based demographic inference and the unequal distribution of misrecognition.](https://jyang32.github.io/CSDE502-Sp25/Readings/The%20Boneyard/Lockhart_NamebasedInference_2023.pdf) Nature Human Behaviour, 1-12.
   * Lopez, Ian Haney. ["Race on the 2010 census: Hispanics & the shrinking white majority."](https://jyang32.github.io/CSDE502-Sp25/Readings/The%20Boneyard/Lopez_2010CensusHispanic_2005.pdf) Daedalus 134, no. 1 (2005): 42-52.
   * Maldonado-Castellanos, I., & Barrios, L. M. (2023). [Ethical Issues when Using Digital Platforms to Perform Interviews in Qualitative Health Research.](https://jyang32.github.io/CSDE502-Sp25/Readings/The%20Boneyard/Maldonado-Castellanos_DigitalQualEthics_2023.pdf) International Journal of Qualitative Methods, 22, 16094069231165949.
@@ -152,5 +147,5 @@ layout: default
   * Wang, Feng, Yong Cai, Ke Shen, and Stuart Gietel-Basten. ["Is demography just a numerical exercise? Numbers, politics, and legacies of China’s one-child policy."](https://jyang32.github.io/CSDE502-Sp25/Readings/The%20Boneyard/Wang_Cai_DemographyOneChild_2018.pdf) Demography 55, no. 2 (2018): 693-719.
 
 # Acknowledgment
-This course website is built from the course materials prepared by **Dr. Jessica Godwin** in [Spring 2024](https://github.com/jlgodwin/CSDE502-Sp24).
+This course website is built based on the course materials prepared by **Dr. Jessica Godwin** in [Spring 2024](https://github.com/jlgodwin/CSDE502-Sp24).
 
