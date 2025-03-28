@@ -4,7 +4,7 @@ layout: default
 ---
 
 # Table of Contents
-[Syllabus](https://jyang32.github.io/CSDE502-Sp25/CSDE%20502_Syllabus_20240328..pdf)
+[Syllabus](https://jyang32.github.io/CSDE502-Sp25/CSDE%20502_Syllabus_20250310.pdf)
 
 * [Week 1: Ethics and Norms](#week-1)
 * [Week 2: Research with Human Subjects](#week-2)
