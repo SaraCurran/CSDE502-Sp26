@@ -42,7 +42,7 @@ layout: default
 # Week 3
 
 **Research with Human Subjects:** April 18, 2025
-  *  [Slides](https://jyang32.github.io/CSDE502-Sp25/Slides/CSDE%20502%20Week%203_20250418.pdf)
+
 
 ## Readings
 
