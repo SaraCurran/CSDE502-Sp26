@@ -46,9 +46,9 @@ layout: default
 
 ## Readings
 
-  *  **Research with Human Subjects:** [Responsible Conduct of Research, Ch. 11](https://jyang32.github.io/CSDE502-Sp25/Readings/Week%202/Responsible%20Conduct%20of%20Research_Ch11.pdf)
-  *  **Universities and Human Subjects Research:** [Colonial Unknowing](https://jyang32.github.io/CSDE502-Sp25/Readings/Week%202/ColonialUnknowing_IRBs_2019.pdf), [Indigenous Data Sovereignty and IRBs](https://jyang32.github.io/CSDE502-Sp25/Readings/Week%202/IndigenousDataSovereignty_IRB.pdf), [Land Grab University](https://jyang32.github.io/CSDE502-Sp25/Readings/Week%202/LandGrabUniversities_2019.pdf)
-  *  **Case Studies:** [Montana Flyer Study](https://jyang32.github.io/CSDE502-Sp25/Readings/Week%202/MontanaFlyerStudy.pdf), [Bangladesh Mask Study](https://jyang32.github.io/CSDE502-Sp25/Readings/Week%202/BangladeshMaskStudy.pdf)
+  *  **Research with Human Subjects:** [Responsible Conduct of Research, Ch. 11](https://jyang32.github.io/CSDE502-Sp25/Readings/Week%203/Responsible%20Conduct%20of%20Research_Ch11.pdf)
+  *  **Universities and Human Subjects Research:** [Colonial Unknowing](https://jyang32.github.io/CSDE502-Sp25/Readings/Week%203/ColonialUnknowing_IRBs_2019.pdf), [Indigenous Data Sovereignty and IRBs](https://jyang32.github.io/CSDE502-Sp25/Readings/Week%203/IndigenousDataSovereignty_IRB.pdf), [Land Grab University](https://jyang32.github.io/CSDE502-Sp25/Readings/Week%203/LandGrabUniversities_2019.pdf)
+  *  **Case Studies:** [Montana Flyer Study](https://jyang32.github.io/CSDE502-Sp25/Readings/Week%203/MontanaFlyerStudy.pdf), [Bangladesh Mask Study](https://jyang32.github.io/CSDE502-Sp25/Readings/Week%203/BangladeshMaskStudy.pdf)
 
 # Week 4
 
