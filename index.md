@@ -6,6 +6,8 @@ layout: default
 # Table of Contents
 [Syllabus](https://jyang32.github.io/CSDE502-Sp25/CSDE%20502_Syllabus_20250310.pdf)
 
+[Discussion sign up schedule](https://docs.google.com/spreadsheets/d/144Fx07aFUwwzl1Mouf8BqNwv79v8-4yv6lF7rvorrR0/edit?gid=0#gid=0)
+
 * [Week 1: Ethics and Norms](#week-1)
 * [Week 2: Research with Human Subjects](#week-2)
 * [Week 3: Research with Human Subjects, cont'd](#week-3)
