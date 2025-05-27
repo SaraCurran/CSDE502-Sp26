@@ -4,6 +4,9 @@ layout: default
 ---
 
 # Table of Contents
+
+[Final Assignment]([Syllabus](https://jyang32.github.io/CSDE502-Sp25/CSDE502_Sp25_final_assignment.pdf))
+
 [Syllabus](https://jyang32.github.io/CSDE502-Sp25/CSDE%20502_Syllabus_20250310.pdf)
 
 [Discussion sign up schedule](https://docs.google.com/spreadsheets/d/144Fx07aFUwwzl1Mouf8BqNwv79v8-4yv6lF7rvorrR0/edit?gid=0#gid=0)
