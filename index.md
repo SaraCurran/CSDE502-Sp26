@@ -1,22 +1,22 @@
 ---
-title: CSDE 502 Responsible Conduct of Research, Spring 2025
+title: CSDE 502 Responsible Conduct of Research, Spring 2026
 layout: default
 ---
 
 # Table of Contents
 
-[Final Assignment](https://jyang32.github.io/CSDE502-Sp25/CSDE502_Sp25_final_assignment.pdf)
+[Final Assignment](https://jyang32.github.io/CSDE502-Sp25/CSDE502_Sp26_final_assignment.pdf)
 
-[Syllabus](https://jyang32.github.io/CSDE502-Sp25/CSDE%20502_Syllabus_20250310.pdf)
+[Syllabus](https://jyang32.github.io/CSDE502-Sp25/CSDE%20502_Syllabus_03132026.pdf)
 
 [Discussion sign up schedule](https://docs.google.com/spreadsheets/d/144Fx07aFUwwzl1Mouf8BqNwv79v8-4yv6lF7rvorrR0/edit?gid=0#gid=0)
 
 * [Week 1: Ethics and Norms](#week-1)
 * [Week 2: Research with Human Subjects](#week-2)
-* [Week 3: Research with Human Subjects, cont'd](#week-3)
-* [Week 4: Data Management Principles](#week-4)
-* [Week 5: Research in Low- and Middle- Income Countries](#week-5)
-* [Week 6: Algorithms and Prediction](#week-6)
+* [Week 3: Data Management Principles](#week-3)
+* [Week 4: Research in Low- and Middle- Income Countries](#week-4)
+* [Week 5: Algorithms and Prediction](#week-5)
+* [Week 6: PAA](#week-6)
 * [Week 7: Reproducibility, Replicability, Statistical Inference](#week-7)
 * [Week 8: The Workplace](#week-8)
 * [Week 9: Solutions](#week-9)
@@ -27,7 +27,7 @@ layout: default
 
 # Week 1
 
-**Ethics and Norms:** April 4, 2025
+**Ethics and Norms:** April 3, 2026
   *  [Slides](https://jyang32.github.io/CSDE502-Sp25/Slides/CSDE%20502%20Week%201_20250404.pdf)
 
 ## Readings
@@ -35,20 +35,16 @@ layout: default
   *  **Ethics and Norms:** [Thinking Ethically](https://jyang32.github.io/CSDE502-Sp25/Readings/Week%201/ThinkingEthically.pdf), [Research Norms](https://jyang32.github.io/CSDE502-Sp25/Readings/Week%201/MertnonianNorms.pdf), [Fostering Integrity in Research, Ch.2: Core Values and Guiding Norms](https://jyang32.github.io/CSDE502-Sp25/Readings/Week%201/Fostering%20Integrity_Ch2.pdf)
   *  **Case Studies:** [More Than Tuskegee](https://jyang32.github.io/CSDE502-Sp25/Readings/Week%201/Scharff_MoreThanTuskegee.pdf) ([Background](https://www.mcgill.ca/oss/article/history/40-years-human-experimentation-america-tuskegee-study))
   
+
 # Week 2
 
-**No Class - PAA:** April 11, 2025
+**Research with Human Subjects:** April 10, 2026
+  *  [Slides](https://jyang32.github.io/CSDE502-Sp25/Slides/CSDE%20502%20Week%203_20250418.pdf)
 
 ## Assignments
  **CITI Human Subjects Training**
    *  [Assignment](https://jyang32.github.io/CSDE502-Sp25/CITI%20Materials/CITI%20Assignment%20Instructions.pdf)
    *  [Registration Instructions](https://jyang32.github.io/CSDE502-Sp25/CITI%20Materials/CITI_RegistrationInstructions.pdf)
-
-# Week 3
-
-**Research with Human Subjects:** April 18, 2025
-  *  [Slides](https://jyang32.github.io/CSDE502-Sp25/Slides/CSDE%20502%20Week%203_20250418.pdf)
-
 
 ## Readings
 
@@ -56,18 +52,18 @@ layout: default
   *  **Universities and Human Subjects Research:** [Colonial Unknowing](https://jyang32.github.io/CSDE502-Sp25/Readings/Week%203/ColonialUnknowing_IRBs_2019.pdf), [Indigenous Data Sovereignty and IRBs](https://jyang32.github.io/CSDE502-Sp25/Readings/Week%203/IndigenousDataSovereignty_IRB.pdf), [Land Grab University](https://jyang32.github.io/CSDE502-Sp25/Readings/Week%203/LandGrabUniversities_2019.pdf)
   *  **Case Studies:** [Montana Flyer Study](https://jyang32.github.io/CSDE502-Sp25/Readings/Week%203/MontanaFlyerStudy.pdf), [Bangladesh Mask Study](https://jyang32.github.io/CSDE502-Sp25/Readings/Week%203/BangladeshMaskStudy.pdf)
 
-# Week 4
+# Week 3
 
-**Data Management Principles:** April 25, 2025
+**Data Management Principles:** April 17, 2026
 
 ## Readings
   * [FAIR](https://jyang32.github.io/CSDE502-Sp25/Readings/Week%204/FairData.pdf)
   * [Indigenous Data Principles](https://jyang32.github.io/CSDE502-Sp25/Readings/Week%204/IndigenousDataUS_Carroll.pdf), [CARE](https://jyang32.github.io/CSDE502-Sp25/Readings/Week%204/CAREPrinciples_Carroll.pdf) [Extending CARE Principles](https://jyang32.github.io/CSDE502-Sp25/Readings/Week%204/ExtendingCAREPrinciples.pdf)
   * **Case Studies:** [Population Data Systems](https://jyang32.github.io/CSDE502-Sp25/Readings/Week%204/SeltzerAnderson2001.pdf) [Stop Stealing Our Stories](https://jyang32.github.io/CSDE502-Sp25/Readings/Week%204/StopStealingOurStories.pdf)
 
-# Week 5
+# Week 4
 
-**Research in Low- and Middle- Income Countries:** May 2, 2025
+**Research in Low- and Middle- Income Countries:** April 24, 2026
 
 ## Readings
   * [Global North-South Partnerships in Research](https://jyang32.github.io/CSDE502-Sp25/Readings/Week%205/GlobalNorthSouthResearch.pdf)
@@ -75,9 +71,9 @@ layout: default
   * [Decolonizing Global Health](https://jyang32.github.io/CSDE502-Sp25/Readings/Week%205/DeCamp_DecolonizingGH_2023.pdf)
   * **Case studies:** [Ethics of HDSS Sites](https://jyang32.github.io/CSDE502-Sp25/Readings/Week%205/HDSS_Ethicspdf.pdf)
 
-# Week 6
+# Week 5
 
-**Algorithms and Prediction:** May 9, 2025
+**Algorithms and Prediction:** May 1, 2026
 
 ## Readings
   * [Race and Biosocial Science](https://jyang32.github.io/CSDE502-Sp25/Readings/Week%206/RobertsRollins_2020_ARS.pdf)
@@ -85,10 +81,11 @@ layout: default
   * [Regenerating Demographic Stereotypes](https://jyang32.github.io/CSDE502-Sp25/Readings/Week%206/Bianchi_TexttoImage_Stereotypes_2023.pdf)
   * **Case studies:** [Predictive Policing](https://jyang32.github.io/CSDE502-Sp25/Readings/Week%206/ProPublica_PredictivePolicing_2016.pdf) [Unmasking AI, Ch. 6](https://orbiscascade-washington.primo.exlibrisgroup.com/discovery/fulldisplay?docid=cdi_proquest_ebookcentral_EBC30724349&context=PC&vid=01ALLIANCE_UW:UW&lang=en&search_scope=UW_EVERYTHING&adaptor=Primo%20Central&tab=UW_default&query=any,contains,unmasking%20ai)
 
+# Week 6 - PAA
 
 # Week 7
 
-**Reproducibility, Replicability, Statistical Inference:** May 16, 2025
+**Reproducibility, Replicability, Statistical Inference:** May 15, 2026
 
 ## Readings
   *  [Responsible Conduct of Research, Ch.3](https://jyang32.github.io/CSDE502-Sp25/Readings/Week%207/Responsible%20Conduct%20of%20Research_Ch3.pdf)
@@ -99,7 +96,7 @@ layout: default
 
 # Week 8
 
-**The Workplace:** May 23, 2025
+**The Workplace:** May 22, 2026
 
 ## Readings
   * [Why isn't science better?](https://jyang32.github.io/CSDE502-Sp25/Readings/Week%209/Smaldino_WhyIsntScienceBetter.pdf)
@@ -108,7 +105,7 @@ layout: default
 
 # Week 9
 
-**Solutions:** May 30, 2025
+**Solutions:** May 29, 2026
 
 ## Readings
   * [Toward Critical Demography 2.0](https://jyang32.github.io/CSDE502-Sp25/Readings/Week%2010/Ortega_CritDemog2_2023.pdf) [Regaining Trust in Science](https://jyang32.github.io/CSDE502-Sp25/Readings/Week%2010/Hastings_RegainingTrust_2023.pdf)
@@ -116,7 +113,7 @@ layout: default
 
 # Week 10
 
-**Guest Lecture: Amy Hagopian** June 6, 2025
+**Guest Lecture** June 5, 2025
 
 
 # Boneyard
