@@ -55,7 +55,8 @@ layout: default
 # Week 3
 
 **Data Management Principles:** April 17, 2026
-
+ *[Slides](
+ 
 ## Readings
   * [FAIR](https://saracurran.github.io/CSDE502-Sp26/Readings/Week%204/FairData.pdf)
   * [Indigenous Data Principles](https://saracurran.github.io/CSDE502-Sp26/Readings/Week%204/IndigenousDataUS_Carroll.pdf), [CARE](https://saracurran.github.io/CSDE502-Sp26/Readings/Week%204/CAREPrinciples_Carroll.pdf) [Extending CARE Principles](https://saracurran.github.io/CSDE502-Sp26/Readings/Week%204/ExtendingCAREPrinciples.pdf)
