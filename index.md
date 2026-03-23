@@ -39,7 +39,7 @@ layout: default
 # Week 2
 
 **Research with Human Subjects:** April 10, 2026
-  *  [Slides](https://saracurran.github.io/CSDE502-Sp26/Slides/CSDE%20502%20Week%203_20250418.pdf)
+  *  [Slides](https://saracurran.github.io/CSDE502-Sp26/Slides/CSDE%20502%20Week%202_20260410.pdf)
 
 ## Assignments
  **CITI Human Subjects Training**
