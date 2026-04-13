@@ -7,7 +7,7 @@ layout: default
 
 [Final Assignment](https://saracurran.github.io/CSDE502-Sp26/CSDE502_Sp26_final_assignment.pdf) 
 
-[Syllabus](https://saracurran.github.io/CSDE502-Sp26/CSDE502_Syllabus_03222026%20(2).pdf) 
+[Syllabus](https://saracurran.github.io/CSDE502-Sp26/CSDE502_Syllabus_03222026%20(3).pdf) 
 
 [Discussion sign up schedule](https://docs.google.com/spreadsheets/d/144Fx07aFUwwzl1Mouf8BqNwv79v8-4yv6lF7rvorrR0/edit?gid=0#gid=0)
 
@@ -43,7 +43,7 @@ layout: default
 
 ## Assignments
  **CITI Human Subjects Training**
-   *  [Assignment](https://saracurran.github.io/CSDE502-Sp26/CITI%20Materials/CITI%20Assignment%20Instructions.pdf)
+   *  [Assignment](https://saracurran.github.io/CSDE502-Sp26/CITI%20Assignment%20Instructions.pdf)
    *  [Registration Instructions](https://saracurran.github.io/CSDE502-Sp26/CITI%20Materials/CITI_RegistrationInstructions.pdf)
 
 ## Readings
