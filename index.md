@@ -56,7 +56,7 @@ layout: default
 
 **Data Management Principles:** April 17, 2026
  *[Slides](https://saracurran.github.io/CSDE502-Sp26/Slides/CSDE%20502%20Week%203_20260417.pdf)
-   * [**Discussion**]
+   * [**Discussion**](https://saracurran.github.io/CSDE502-Sp26/Slides/Week%203%20Discussion.docx)
  
 ## Readings
   * [FAIR](https://saracurran.github.io/CSDE502-Sp26/Readings/Week%204/FairData.pdf)
