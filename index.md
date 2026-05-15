@@ -81,6 +81,8 @@ layout: default
   * [Algorithmic Fairness](https://saracurran.github.io/CSDE502-Sp26/Readings/Week%206/AlgorithmicFairness_2021_ARS.pdf)
   * [Regenerating Demographic Stereotypes](https://saracurran.github.io/CSDE502-Sp26/Readings/Week%206/Bianchi_TexttoImage_Stereotypes_2023.pdf)
   * **Case studies:** [Predictive Policing](https://saracurran.github.io/CSDE502-Sp26/Readings/Week%206/ProPublica_PredictivePolicing_2016.pdf) [Unmasking AI, Ch. 6](https://orbiscascade-washington.primo.exlibrisgroup.com/discovery/fulldisplay?docid=cdi_proquest_ebookcentral_EBC30724349&context=PC&vid=01ALLIANCE_UW:UW&lang=en&search_scope=UW_EVERYTHING&adaptor=Primo%20Central&tab=UW_default&query=any,contains,unmasking%20ai)
+  * [**Discussion Slides**](https://saracurran.github.io/CSDE502-Sp26/Slides/Algorithms%2BPrediction_CSDE502_Facilitation_5.1.26.pdf)
+ 
 
 # Week 6 - PAA
 
